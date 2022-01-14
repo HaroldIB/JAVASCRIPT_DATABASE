@@ -1,0 +1,23 @@
+{
+  "name": "javascript_database",
+  "version": "1.0.0",
+  "description": "En este proyecto se vincula una Base de Datos con JavaScript para incorporlarlo a la simulación de Laboratorio de Física",
+  "main": "mysql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaroldIB/JAVASCRIPT_DATABASE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaroldIB/JAVASCRIPT_DATABASE/issues"
+  },
+  "homepage": "https://github.com/HaroldIB/JAVASCRIPT_DATABASE#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
